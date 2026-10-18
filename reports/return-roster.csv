@@ -1,0 +1,4 @@
+return_due,zone,asset_id,ticket_id,operator,loan_days
+2026-07-03,Lighting,EQ-200,T-09,Uma,2
+2026-07-04,Audio,EQ-100,T-01,Nia,3
+2026-07-04,Audio,EQ-400,T-07,Kim,1
