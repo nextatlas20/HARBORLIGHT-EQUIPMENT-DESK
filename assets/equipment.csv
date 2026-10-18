@@ -1,0 +1,6 @@
+asset_id,zone,condition,loan_days
+EQ-100,Audio,READY,3
+EQ-200,Lighting,READY,2
+EQ-300,Video,REPAIR,4
+EQ-400,Audio,READY,1
+EQ-500,Stage,READY,5
